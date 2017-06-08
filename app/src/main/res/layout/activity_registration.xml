@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.treblig.mypassword.RegistrationActivity">
+
+    <TextView
+        android:id="@+id/text_view_notif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:textColor="@color/error_color"
+        android:textSize="10sp"
+        />
+
+
+    <EditText
+        android:id="@+id/edit_text_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_view_notif"
+        android:hint="@string/nama"
+        android:paddingBottom="16dp"
+        android:inputType="text"
+        />
+
+    <EditText
+        android:id="@+id/edit_text_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edit_text_name"
+        android:hint="@string/email"
+        android:paddingBottom="16dp"
+        android:inputType="textEmailAddress"
+        />
+
+    <EditText
+        android:id="@+id/edit_text_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_text_email"
+        android:hint="@string/password"
+        android:paddingBottom="16dp"
+        android:inputType="textPassword"
+        />
+
+    <EditText
+        android:id="@+id/edit_text_confirm_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_text_password"
+        android:hint="@string/confirm_password"
+        android:paddingBottom="16dp"
+        android:inputType="textPassword"
+        />
+
+    <Button
+        android:id="@+id/button_create_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_text_confirm_password"
+        android:layout_centerHorizontal="true"
+        android:hint="@string/create_account"
+
+        />
+
+
+</RelativeLayout>

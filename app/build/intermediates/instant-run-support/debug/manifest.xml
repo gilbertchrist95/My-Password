@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.treblig.mypassword"
+    android:versionCode="1"
+    android:versionName="0.8" >
+
+    <uses-sdk android:minSdkVersion="16" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.treblig.mypassword.FirstActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.treblig.mypassword.LoginActivity2"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.treblig.mypassword.PasswordListActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.treblig.mypassword.PasswordEditActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.treblig.mypassword.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.treblig.mypassword.RegistrationActivity"
+            android:label="@string/title_activity_registration" >
+        </activity>
+        <activity
+            android:name="com.treblig.mypassword.SettingActivity"
+            android:label="@string/title_activity_setting" >
+        </activity>
+        <activity
+            android:name="com.treblig.mypassword.ChangePasswordActivity"
+            android:label="@string/title_activity_change_password" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.treblig.mypassword.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

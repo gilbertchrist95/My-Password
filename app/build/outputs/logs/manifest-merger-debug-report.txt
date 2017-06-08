@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:4:5-28
+	xmlns:android
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:7:5-50:19
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.treblig.mypassword.FirstActivity
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:15:13-71
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:13:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.treblig.mypassword.LoginActivity2
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:24:13-57
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:23:13-43
+activity#com.treblig.mypassword.PasswordListActivity
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:27:13-49
+activity#com.treblig.mypassword.PasswordEditActivity
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:30:9-33:20
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:31:13-49
+activity#com.treblig.mypassword.LoginActivity
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:36:13-57
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:35:13-42
+activity#com.treblig.mypassword.RegistrationActivity
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:40:13-64
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:39:13-49
+activity#com.treblig.mypassword.SettingActivity
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:44:13-59
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:43:13-44
+activity#com.treblig.mypassword.ChangePasswordActivity
+ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:48:13-67
+	android:name
+		ADDED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml:47:13-51
+uses-sdk
+INJECTED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:minSdkVersion
+		INJECTED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Project\Android\MyPassword\app\src\main\AndroidManifest.xml

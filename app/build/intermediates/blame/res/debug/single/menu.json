@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\menu\\password_list.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\menu\\password_list.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\menu\\registration.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\menu\\registration.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\menu\\password_edit.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\menu\\password_edit.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\menu\\first.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\menu\\first.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\menu\\login.xml"
+    }
+]

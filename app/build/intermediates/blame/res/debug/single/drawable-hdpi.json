@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_new.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_remove.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-hdpi\\ic_action_remove.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splashscren.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-hdpi\\splashscren.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_accept.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-hdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash_screen.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-hdpi\\splash_screen.png"
+    }
+]

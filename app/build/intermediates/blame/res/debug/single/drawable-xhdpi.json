@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_new_account.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_new_account.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_accept.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_accept.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_new.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_remove.png",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_remove.png"
+    }
+]

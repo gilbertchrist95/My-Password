@@ -1,0 +1,4 @@
+#Thu Jun 08 15:01:42 ICT 2017
+base.0=D\:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_4edf3261b40334fb19277d575ec0c332ca67ccf1
+renamed.0=classes.dex
+file.0=D\:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_4edf3261b40334fb19277d575ec0c332ca67ccf1\\classes.dex

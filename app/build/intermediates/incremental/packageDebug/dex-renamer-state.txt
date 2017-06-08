@@ -1,0 +1,7 @@
+#Thu Jun 08 15:01:44 ICT 2017
+base.0=D\:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_055b4f2d16758a4c2154fce8559cfa6aa186af88
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_207ffe9b3e74392aae6fa78a7457a05059061d45\\classes.dex
+base.1=D\:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_207ffe9b3e74392aae6fa78a7457a05059061d45
+file.0=D\:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_055b4f2d16758a4c2154fce8559cfa6aa186af88\\classes.dex

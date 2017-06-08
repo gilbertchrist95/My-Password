@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\MyPassword\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Project\Android\MyPassword\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_055b4f2d16758a4c2154fce8559cfa6aa186af88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\Android\MyPassword\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11d1260183bdf85c95f2d6adafa1b4a8b05e37c0">
+        <dex dex="D:\Project\Android\MyPassword\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_207ffe9b3e74392aae6fa78a7457a05059061d45\classes.dex" />
+    </item>
+
+</items>

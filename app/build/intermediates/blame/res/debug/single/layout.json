@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splashscreen.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password_edit.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\layout\\activity_password_edit.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password_row.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\layout\\activity_password_row.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\Project\\Android\\MyPassword\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_password_list.xml",
+        "source": "D:\\Project\\Android\\MyPassword\\app\\src\\main\\res\\layout\\activity_password_list.xml"
+    }
+]
